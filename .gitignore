@@ -2,3 +2,5 @@
 *.png
 
 *.mp4
+
+.ipynb_checkpoints/P3.4_Theis_pumping-checkpoint.ipynb
