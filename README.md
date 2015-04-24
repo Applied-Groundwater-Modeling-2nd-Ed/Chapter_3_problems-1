@@ -3,7 +3,7 @@ Anderson Woessner and Hunt (2015) book problems
 
 This repository is for teaching materials for Chapter 3 of Anderson Woessner and Hunt (2015). Here we use the Python Notebook approach for creating and exploring a Chapter 3 problem from the book.  Instructions for minimum iPython Notebook installation are found here at http://ipython.org/install.html. 
 
-One approach is to use the 'Download ZIP' button on the righthand side of the browser window. This will download a complete zip of all files in the repository and has the correct dependencies to display embedded graphics. Simply unzip into a local directory (e.g., \Chapter4_problems) that you have read/write rights to run the notebook. The notebooks encourage the user to try different settings and re-execute the groundwater model to see what the effect is. However, it is helpful to keep the ZIP file to facilitate quick access to the original working versions.
+One approach is to use the 'Download ZIP' button on the righthand side of the browser window. This will download a complete zip of all files in the repository and has the correct dependencies to display embedded graphics. Simply unzip into a local directory (e.g., \Chapter3_problems) that you have read/write rights to run the notebook. The notebooks encourage the user to try different settings and re-execute the groundwater model to see what the effect is. However, it is helpful to keep the ZIP file to facilitate quick access to the original working versions.
 
 Click the hyperlink below to see a fully executed and static version of the notebook. All steps have been executed and all output shown. This can be used to cut and paste to a new Python notebook, or for comparison to local execution of notebooks downloaded from this site.
 
